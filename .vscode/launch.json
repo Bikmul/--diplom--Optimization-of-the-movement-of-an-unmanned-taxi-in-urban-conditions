@@ -1,0 +1,150 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day04.ex00.ImagesToChar.src.java.edu.school21.printer.app.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day02.ex02.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day02.ex01.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day01.ex05.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day01.ex04.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day01.ex03.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day01.ex02.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day01.ex01.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day01.ex00.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day00.ex05.table",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day00.ex05.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day00.ex04.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day00.ex03.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day00.ex02.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day00.ex01.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Java.Piscine.day00.ex00.Program",
+            "projectName": "kod_c962fde"
+        },
+        {
+            "name": "C/C++: g++.exe сборка и отладка активного файла",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Включить автоматическое форматирование для gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Задать для варианта приложения дизассемблирования значение Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++.exe сборка активного файла"
+        }
+    ],
+    "version": "2.0.0"
+}
